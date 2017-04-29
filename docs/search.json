@@ -32,924 +32,924 @@
     
         {
             "title" : "Accessibility",
-            "url"   : "bootstrap/docs/getting-started/accessibility/"
+            "url"   : "/bootstrap/docs/getting-started/accessibility/"
         } ,
     
 
     
         {
             "title" : "Accessibility",
-            "url"   : "bootstrap/getting-started/accessibility/"
+            "url"   : "/bootstrap/getting-started/accessibility/"
         } ,
     
 
     
         {
             "title" : "Alerts",
-            "url"   : "bootstrap/components/alerts/"
+            "url"   : "/bootstrap/components/alerts/"
         } ,
     
 
     
         {
             "title" : "Alerts",
-            "url"   : "bootstrap/docs/components/alerts/"
+            "url"   : "/bootstrap/docs/components/alerts/"
         } ,
     
 
     
         {
             "title" : "Approach",
-            "url"   : "bootstrap/extend/approach/"
+            "url"   : "/bootstrap/extend/approach/"
         } ,
     
 
     
         {
             "title" : "Approach",
-            "url"   : "bootstrap/docs/extend/approach/"
+            "url"   : "/bootstrap/docs/extend/approach/"
         } ,
     
 
     
         {
             "title" : "Badges",
-            "url"   : "bootstrap/docs/components/badge/"
+            "url"   : "/bootstrap/docs/components/badge/"
         } ,
     
 
     
         {
             "title" : "Badges",
-            "url"   : "bootstrap/components/badge/"
+            "url"   : "/bootstrap/components/badge/"
         } ,
     
 
     
         {
             "title" : "Best practices",
-            "url"   : "bootstrap/getting-started/best-practices/"
+            "url"   : "/bootstrap/getting-started/best-practices/"
         } ,
     
 
     
         {
             "title" : "Best practices",
-            "url"   : "bootstrap/docs/getting-started/best-practices/"
+            "url"   : "/bootstrap/docs/getting-started/best-practices/"
         } ,
     
 
     
         {
             "title" : "Borders",
-            "url"   : "bootstrap/docs/utilities/borders/"
+            "url"   : "/bootstrap/docs/utilities/borders/"
         } ,
     
 
     
         {
             "title" : "Borders",
-            "url"   : "bootstrap/utilities/borders/"
+            "url"   : "/bootstrap/utilities/borders/"
         } ,
     
 
     
         {
             "title" : "Brand guidelines",
-            "url"   : "bootstrap/docs/about/brand/"
+            "url"   : "/bootstrap/docs/about/brand/"
         } ,
     
 
     
         {
             "title" : "Brand guidelines",
-            "url"   : "bootstrap/about/brand/"
+            "url"   : "/bootstrap/about/brand/"
         } ,
     
 
     
         {
             "title" : "Breadcrumb",
-            "url"   : "bootstrap/components/breadcrumb/"
+            "url"   : "/bootstrap/components/breadcrumb/"
         } ,
     
 
     
         {
             "title" : "Breadcrumb",
-            "url"   : "bootstrap/docs/components/breadcrumb/"
+            "url"   : "/bootstrap/docs/components/breadcrumb/"
         } ,
     
 
     
         {
             "title" : "Browsers and devices",
-            "url"   : "bootstrap/docs/getting-started/browsers-devices/"
+            "url"   : "/bootstrap/docs/getting-started/browsers-devices/"
         } ,
     
 
     
         {
             "title" : "Browsers and devices",
-            "url"   : "bootstrap/getting-started/browsers-devices/"
+            "url"   : "/bootstrap/getting-started/browsers-devices/"
         } ,
     
 
     
         {
             "title" : "Build tools",
-            "url"   : "bootstrap/getting-started/build-tools/"
+            "url"   : "/bootstrap/getting-started/build-tools/"
         } ,
     
 
     
         {
             "title" : "Build tools",
-            "url"   : "bootstrap/docs/getting-started/build-tools/"
+            "url"   : "/bootstrap/docs/getting-started/build-tools/"
         } ,
     
 
     
         {
             "title" : "Button group",
-            "url"   : "bootstrap/docs/components/button-group/"
+            "url"   : "/bootstrap/docs/components/button-group/"
         } ,
     
 
     
         {
             "title" : "Button group",
-            "url"   : "bootstrap/components/button-group/"
+            "url"   : "/bootstrap/components/button-group/"
         } ,
     
 
     
         {
             "title" : "Buttons",
-            "url"   : "bootstrap/docs/components/buttons/"
+            "url"   : "/bootstrap/docs/components/buttons/"
         } ,
     
 
     
         {
             "title" : "Buttons",
-            "url"   : "bootstrap/components/buttons/"
+            "url"   : "/bootstrap/components/buttons/"
         } ,
     
 
     
         {
             "title" : "Cards",
-            "url"   : "bootstrap/components/card/"
+            "url"   : "/bootstrap/components/card/"
         } ,
     
 
     
         {
             "title" : "Cards",
-            "url"   : "bootstrap/docs/components/card/"
+            "url"   : "/bootstrap/docs/components/card/"
         } ,
     
 
     
         {
             "title" : "Carousel",
-            "url"   : "bootstrap/docs/components/carousel/"
+            "url"   : "/bootstrap/docs/components/carousel/"
         } ,
     
 
     
         {
             "title" : "Carousel",
-            "url"   : "bootstrap/components/carousel/"
+            "url"   : "/bootstrap/components/carousel/"
         } ,
     
 
     
         {
             "title" : "Clearfix",
-            "url"   : "bootstrap/docs/utilities/clearfix/"
+            "url"   : "/bootstrap/docs/utilities/clearfix/"
         } ,
     
 
     
         {
             "title" : "Clearfix",
-            "url"   : "bootstrap/utilities/clearfix/"
+            "url"   : "/bootstrap/utilities/clearfix/"
         } ,
     
 
     
         {
             "title" : "Close icon",
-            "url"   : "bootstrap/utilities/close-icon/"
+            "url"   : "/bootstrap/utilities/close-icon/"
         } ,
     
 
     
         {
             "title" : "Close icon",
-            "url"   : "bootstrap/docs/utilities/close-icon/"
+            "url"   : "/bootstrap/docs/utilities/close-icon/"
         } ,
     
 
     
         {
             "title" : "Code",
-            "url"   : "bootstrap/content/code/"
+            "url"   : "/bootstrap/content/code/"
         } ,
     
 
     
         {
             "title" : "Code",
-            "url"   : "bootstrap/docs/content/code/"
+            "url"   : "/bootstrap/docs/content/code/"
         } ,
     
 
     
         {
             "title" : "Collapse",
-            "url"   : "bootstrap/components/collapse/"
+            "url"   : "/bootstrap/components/collapse/"
         } ,
     
 
     
         {
             "title" : "Collapse",
-            "url"   : "bootstrap/docs/components/collapse/"
+            "url"   : "/bootstrap/docs/components/collapse/"
         } ,
     
 
     
         {
             "title" : "Colors",
-            "url"   : "bootstrap/utilities/colors/"
+            "url"   : "/bootstrap/utilities/colors/"
         } ,
     
 
     
         {
             "title" : "Colors",
-            "url"   : "bootstrap/docs/utilities/colors/"
+            "url"   : "/bootstrap/docs/utilities/colors/"
         } ,
     
 
     
         {
             "title" : "Contents",
-            "url"   : "bootstrap/docs/getting-started/contents/"
+            "url"   : "/bootstrap/docs/getting-started/contents/"
         } ,
     
 
     
         {
             "title" : "Contents",
-            "url"   : "bootstrap/getting-started/contents/"
+            "url"   : "/bootstrap/getting-started/contents/"
         } ,
     
 
     
         {
             "title" : "Customization options",
-            "url"   : "bootstrap/docs/getting-started/options/"
+            "url"   : "/bootstrap/docs/getting-started/options/"
         } ,
     
 
     
         {
             "title" : "Customization options",
-            "url"   : "bootstrap/getting-started/options/"
+            "url"   : "/bootstrap/getting-started/options/"
         } ,
     
 
     
         {
             "title" : "Display property",
-            "url"   : "bootstrap/docs/utilities/display/"
+            "url"   : "/bootstrap/docs/utilities/display/"
         } ,
     
 
     
         {
             "title" : "Display property",
-            "url"   : "bootstrap/utilities/display/"
+            "url"   : "/bootstrap/utilities/display/"
         } ,
     
 
     
         {
             "title" : "Download",
-            "url"   : "bootstrap/getting-started/download/"
+            "url"   : "/bootstrap/getting-started/download/"
         } ,
     
 
     
         {
             "title" : "Download",
-            "url"   : "bootstrap/docs/getting-started/download/"
+            "url"   : "/bootstrap/docs/getting-started/download/"
         } ,
     
 
     
         {
             "title" : "Dropdowns",
-            "url"   : "bootstrap/components/dropdowns/"
+            "url"   : "/bootstrap/components/dropdowns/"
         } ,
     
 
     
         {
             "title" : "Dropdowns",
-            "url"   : "bootstrap/docs/components/dropdowns/"
+            "url"   : "/bootstrap/docs/components/dropdowns/"
         } ,
     
 
     
         {
             "title" : "Examples",
-            "url"   : "bootstrap/docs/examples/"
+            "url"   : "/bootstrap/docs/examples/"
         } ,
     
 
     
         {
             "title" : "Examples",
-            "url"   : "bootstrap/examples/"
+            "url"   : "/bootstrap/examples/"
         } ,
     
 
     
         {
             "title" : "Extend",
-            "url"   : "bootstrap/extend/"
+            "url"   : "/bootstrap/extend/"
         } ,
     
 
     
         {
             "title" : "Extend",
-            "url"   : "bootstrap/docs/extend/"
+            "url"   : "/bootstrap/docs/extend/"
         } ,
     
 
     
         {
             "title" : "Figures",
-            "url"   : "bootstrap/docs/content/figures/"
+            "url"   : "/bootstrap/docs/content/figures/"
         } ,
     
 
     
         {
             "title" : "Figures",
-            "url"   : "bootstrap/content/figures/"
+            "url"   : "/bootstrap/content/figures/"
         } ,
     
 
     
         {
             "title" : "Flexbox",
-            "url"   : "bootstrap/docs/utilities/flexbox/"
+            "url"   : "/bootstrap/docs/utilities/flexbox/"
         } ,
     
 
     
         {
             "title" : "Flexbox",
-            "url"   : "bootstrap/utilities/flexbox/"
+            "url"   : "/bootstrap/utilities/flexbox/"
         } ,
     
 
     
         {
             "title" : "Forms",
-            "url"   : "bootstrap/components/forms/"
+            "url"   : "/bootstrap/components/forms/"
         } ,
     
 
     
         {
             "title" : "Forms",
-            "url"   : "bootstrap/docs/components/forms/"
+            "url"   : "/bootstrap/docs/components/forms/"
         } ,
     
 
     
         {
             "title" : "Grid system",
-            "url"   : "bootstrap/layout/grid/"
+            "url"   : "/bootstrap/layout/grid/"
         } ,
     
 
     
         {
             "title" : "Grid system",
-            "url"   : "bootstrap/docs/layout/grid/"
+            "url"   : "/bootstrap/docs/layout/grid/"
         } ,
     
 
     
         {
             "title" : "History",
-            "url"   : "bootstrap/docs/about/history/"
+            "url"   : "/bootstrap/docs/about/history/"
         } ,
     
 
     
         {
             "title" : "History",
-            "url"   : "bootstrap/about/history/"
+            "url"   : "/bootstrap/about/history/"
         } ,
     
 
     
         {
             "title" : "Icons",
-            "url"   : "bootstrap/docs/extend/icons/"
+            "url"   : "/bootstrap/docs/extend/icons/"
         } ,
     
 
     
         {
             "title" : "Icons",
-            "url"   : "bootstrap/extend/icons/"
+            "url"   : "/bootstrap/extend/icons/"
         } ,
     
 
     
         {
             "title" : "Image replacement",
-            "url"   : "bootstrap/docs/utilities/image-replacement/"
+            "url"   : "/bootstrap/docs/utilities/image-replacement/"
         } ,
     
 
     
         {
             "title" : "Image replacement",
-            "url"   : "bootstrap/utilities/image-replacement/"
+            "url"   : "/bootstrap/utilities/image-replacement/"
         } ,
     
 
     
         {
             "title" : "Images",
-            "url"   : "bootstrap/content/images/"
+            "url"   : "/bootstrap/content/images/"
         } ,
     
 
     
         {
             "title" : "Images",
-            "url"   : "bootstrap/docs/content/images/"
+            "url"   : "/bootstrap/docs/content/images/"
         } ,
     
 
     
         {
             "title" : "Input group",
-            "url"   : "bootstrap/docs/components/input-group/"
+            "url"   : "/bootstrap/docs/components/input-group/"
         } ,
     
 
     
         {
             "title" : "Input group",
-            "url"   : "bootstrap/components/input-group/"
+            "url"   : "/bootstrap/components/input-group/"
         } ,
     
 
     
         {
             "title" : "Introduction",
-            "url"   : "bootstrap/getting-started/introduction/"
+            "url"   : "/bootstrap/getting-started/introduction/"
         } ,
     
 
     
         {
             "title" : "Introduction",
-            "url"   : "bootstrap/docs/getting-started/introduction/"
+            "url"   : "/bootstrap/docs/getting-started/introduction/"
         } ,
     
 
     
         {
             "title" : "JavaScript",
-            "url"   : "bootstrap/docs/getting-started/javascript/"
+            "url"   : "/bootstrap/docs/getting-started/javascript/"
         } ,
     
 
     
         {
             "title" : "JavaScript",
-            "url"   : "bootstrap/getting-started/javascript/"
+            "url"   : "/bootstrap/getting-started/javascript/"
         } ,
     
 
     
         {
             "title" : "Jumbotron",
-            "url"   : "bootstrap/components/jumbotron/"
+            "url"   : "/bootstrap/components/jumbotron/"
         } ,
     
 
     
         {
             "title" : "Jumbotron",
-            "url"   : "bootstrap/docs/components/jumbotron/"
+            "url"   : "/bootstrap/docs/components/jumbotron/"
         } ,
     
 
     
         {
             "title" : "License FAQs",
-            "url"   : "bootstrap/docs/about/license/"
+            "url"   : "/bootstrap/docs/about/license/"
         } ,
     
 
     
         {
             "title" : "License FAQs",
-            "url"   : "bootstrap/about/license/"
+            "url"   : "/bootstrap/about/license/"
         } ,
     
 
     
         {
             "title" : "List group",
-            "url"   : "bootstrap/components/list-group/"
+            "url"   : "/bootstrap/components/list-group/"
         } ,
     
 
     
         {
             "title" : "List group",
-            "url"   : "bootstrap/docs/components/list-group/"
+            "url"   : "/bootstrap/docs/components/list-group/"
         } ,
     
 
     
         {
             "title" : "Media object",
-            "url"   : "bootstrap/docs/layout/media-object/"
+            "url"   : "/bootstrap/docs/layout/media-object/"
         } ,
     
 
     
         {
             "title" : "Media object",
-            "url"   : "bootstrap/layout/media-object/"
+            "url"   : "/bootstrap/layout/media-object/"
         } ,
     
 
     
         {
             "title" : "Migrating to v4",
-            "url"   : "bootstrap/migration/"
+            "url"   : "/bootstrap/migration/"
         } ,
     
 
     
         {
             "title" : "Migrating to v4",
-            "url"   : "bootstrap/docs/migration/"
+            "url"   : "/bootstrap/docs/migration/"
         } ,
     
 
     
         {
             "title" : "Modal",
-            "url"   : "bootstrap/components/modal/"
+            "url"   : "/bootstrap/components/modal/"
         } ,
     
 
     
         {
             "title" : "Modal",
-            "url"   : "bootstrap/docs/components/modal/"
+            "url"   : "/bootstrap/docs/components/modal/"
         } ,
     
 
     
         {
             "title" : "Navbar",
-            "url"   : "bootstrap/docs/components/navbar/"
+            "url"   : "/bootstrap/docs/components/navbar/"
         } ,
     
 
     
         {
             "title" : "Navbar",
-            "url"   : "bootstrap/components/navbar/"
+            "url"   : "/bootstrap/components/navbar/"
         } ,
     
 
     
         {
             "title" : "Navs",
-            "url"   : "bootstrap/docs/components/navs/"
+            "url"   : "/bootstrap/docs/components/navs/"
         } ,
     
 
     
         {
             "title" : "Navs",
-            "url"   : "bootstrap/components/navs/"
+            "url"   : "/bootstrap/components/navs/"
         } ,
     
 
     
         {
             "title" : "Overview",
-            "url"   : "bootstrap/docs/layout/overview/"
+            "url"   : "/bootstrap/docs/layout/overview/"
         } ,
     
 
     
         {
             "title" : "Overview",
-            "url"   : "bootstrap/layout/overview/"
+            "url"   : "/bootstrap/layout/overview/"
         } ,
     
 
     
         {
             "title" : "Pagination",
-            "url"   : "bootstrap/docs/components/pagination/"
+            "url"   : "/bootstrap/docs/components/pagination/"
         } ,
     
 
     
         {
             "title" : "Pagination",
-            "url"   : "bootstrap/components/pagination/"
+            "url"   : "/bootstrap/components/pagination/"
         } ,
     
 
     
         {
             "title" : "Popovers",
-            "url"   : "bootstrap/components/popovers/"
+            "url"   : "/bootstrap/components/popovers/"
         } ,
     
 
     
         {
             "title" : "Popovers",
-            "url"   : "bootstrap/docs/components/popovers/"
+            "url"   : "/bootstrap/docs/components/popovers/"
         } ,
     
 
     
         {
             "title" : "Position",
-            "url"   : "bootstrap/docs/utilities/position/"
+            "url"   : "/bootstrap/docs/utilities/position/"
         } ,
     
 
     
         {
             "title" : "Position",
-            "url"   : "bootstrap/utilities/position/"
+            "url"   : "/bootstrap/utilities/position/"
         } ,
     
 
     
         {
             "title" : "Progress",
-            "url"   : "bootstrap/components/progress/"
+            "url"   : "/bootstrap/components/progress/"
         } ,
     
 
     
         {
             "title" : "Progress",
-            "url"   : "bootstrap/docs/components/progress/"
+            "url"   : "/bootstrap/docs/components/progress/"
         } ,
     
 
     
         {
             "title" : "Reboot",
-            "url"   : "bootstrap/docs/content/reboot/"
+            "url"   : "/bootstrap/docs/content/reboot/"
         } ,
     
 
     
         {
             "title" : "Reboot",
-            "url"   : "bootstrap/content/reboot/"
+            "url"   : "/bootstrap/content/reboot/"
         } ,
     
 
     
         {
             "title" : "Responsive helpers",
-            "url"   : "bootstrap/utilities/responsive-helpers/"
+            "url"   : "/bootstrap/utilities/responsive-helpers/"
         } ,
     
 
     
         {
             "title" : "Responsive helpers",
-            "url"   : "bootstrap/docs/utilities/responsive-helpers/"
+            "url"   : "/bootstrap/docs/utilities/responsive-helpers/"
         } ,
     
 
     
         {
             "title" : "Screenreaders",
-            "url"   : "bootstrap/utilities/screenreaders/"
+            "url"   : "/bootstrap/utilities/screenreaders/"
         } ,
     
 
     
         {
             "title" : "Screenreaders",
-            "url"   : "bootstrap/docs/utilities/screenreaders/"
+            "url"   : "/bootstrap/docs/utilities/screenreaders/"
         } ,
     
 
     
         {
             "title" : "Scrollspy",
-            "url"   : "bootstrap/components/scrollspy/"
+            "url"   : "/bootstrap/components/scrollspy/"
         } ,
     
 
     
         {
             "title" : "Scrollspy",
-            "url"   : "bootstrap/docs/components/scrollspy/"
+            "url"   : "/bootstrap/docs/components/scrollspy/"
         } ,
     
 
     
         {
             "title" : "Sizing",
-            "url"   : "bootstrap/utilities/sizing/"
+            "url"   : "/bootstrap/utilities/sizing/"
         } ,
     
 
     
         {
             "title" : "Sizing",
-            "url"   : "bootstrap/docs/utilities/sizing/"
+            "url"   : "/bootstrap/docs/utilities/sizing/"
         } ,
     
 
     
         {
             "title" : "Spacing",
-            "url"   : "bootstrap/docs/utilities/spacing/"
+            "url"   : "/bootstrap/docs/utilities/spacing/"
         } ,
     
 
     
         {
             "title" : "Spacing",
-            "url"   : "bootstrap/utilities/spacing/"
+            "url"   : "/bootstrap/utilities/spacing/"
         } ,
     
 
     
         {
             "title" : "Tables",
-            "url"   : "bootstrap/content/tables/"
+            "url"   : "/bootstrap/content/tables/"
         } ,
     
 
     
         {
             "title" : "Tables",
-            "url"   : "bootstrap/docs/content/tables/"
+            "url"   : "/bootstrap/docs/content/tables/"
         } ,
     
 
     
         {
             "title" : "Team",
-            "url"   : "bootstrap/docs/about/team/"
+            "url"   : "/bootstrap/docs/about/team/"
         } ,
     
 
     
         {
             "title" : "Team",
-            "url"   : "bootstrap/about/team/"
+            "url"   : "/bootstrap/about/team/"
         } ,
     
 
     
         {
             "title" : "Tooltips",
-            "url"   : "bootstrap/docs/components/tooltips/"
+            "url"   : "/bootstrap/docs/components/tooltips/"
         } ,
     
 
     
         {
             "title" : "Tooltips",
-            "url"   : "bootstrap/components/tooltips/"
+            "url"   : "/bootstrap/components/tooltips/"
         } ,
     
 
     
         {
             "title" : "Translations",
-            "url"   : "bootstrap/about/translations/"
+            "url"   : "/bootstrap/about/translations/"
         } ,
     
 
     
         {
             "title" : "Translations",
-            "url"   : "bootstrap/docs/about/translations/"
+            "url"   : "/bootstrap/docs/about/translations/"
         } ,
     
 
     
         {
             "title" : "Typography",
-            "url"   : "bootstrap/content/typography/"
+            "url"   : "/bootstrap/content/typography/"
         } ,
     
 
     
         {
             "title" : "Typography",
-            "url"   : "bootstrap/docs/content/typography/"
+            "url"   : "/bootstrap/docs/content/typography/"
         } ,
     
 
     
         {
             "title" : "Typography",
-            "url"   : "bootstrap/utilities/typography/"
+            "url"   : "/bootstrap/utilities/typography/"
         } ,
     
 
     
         {
             "title" : "Typography",
-            "url"   : "bootstrap/docs/utilities/typography/"
+            "url"   : "/bootstrap/docs/utilities/typography/"
         } ,
     
 
     
         {
             "title" : "Utilities for layout",
-            "url"   : "bootstrap/docs/layout/utilities-for-layout/"
+            "url"   : "/bootstrap/docs/layout/utilities-for-layout/"
         } ,
     
 
     
         {
             "title" : "Utilities for layout",
-            "url"   : "bootstrap/layout/utilities-for-layout/"
+            "url"   : "/bootstrap/layout/utilities-for-layout/"
         } ,
     
 
     
         {
             "title" : "Vertical alignment",
-            "url"   : "bootstrap/docs/utilities/vertical-align/"
+            "url"   : "/bootstrap/docs/utilities/vertical-align/"
         } ,
     
 
     
         {
             "title" : "Vertical alignment",
-            "url"   : "bootstrap/utilities/vertical-align/"
+            "url"   : "/bootstrap/utilities/vertical-align/"
         } ,
     
 
     
         {
             "title" : "Visibility",
-            "url"   : "bootstrap/utilities/visibility/"
+            "url"   : "/bootstrap/utilities/visibility/"
         } ,
     
 
     
         {
             "title" : "Visibility",
-            "url"   : "bootstrap/docs/utilities/visibility/"
+            "url"   : "/bootstrap/docs/utilities/visibility/"
         } ,
     
 
     
         {
             "title" : "Wall of browser bugs",
-            "url"   : "bootstrap/browser-bugs/"
+            "url"   : "/bootstrap/browser-bugs/"
         } ,
     
 
     
         {
             "title" : "Wall of browser bugs",
-            "url"   : "bootstrap/docs/browser-bugs/"
+            "url"   : "/bootstrap/docs/browser-bugs/"
         } 
     
 
