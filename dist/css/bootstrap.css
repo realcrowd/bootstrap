@@ -438,7 +438,7 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-weight: 300;
 }
 
@@ -2233,7 +2233,7 @@ select.form-control:focus::-ms-value {
 .col-form-label-lg {
   padding-top: calc(0.5rem - 1px * 2);
   padding-bottom: calc(0.5rem - 1px * 2);
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 .col-form-label-sm {
@@ -2286,7 +2286,7 @@ select.form-control-sm:not([size]):not([multiple]), .input-group-sm > select.for
 .input-group-lg > .input-group-addon,
 .input-group-lg > .input-group-btn > .btn {
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   line-height: 1.5;
   border-radius: 0.3rem;
 }
@@ -2294,7 +2294,7 @@ select.form-control-sm:not([size]):not([multiple]), .input-group-sm > select.for
 select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.form-control:not([size]):not([multiple]),
 .input-group-lg > select.input-group-addon:not([size]):not([multiple]),
 .input-group-lg > .input-group-btn > select.btn:not([size]):not([multiple]) {
-  height: calc(2.875rem + 2px);
+  height: calc(2.65rem + 2px);
 }
 
 .form-group {
@@ -2989,7 +2989,7 @@ fieldset[disabled] a.btn {
 
 .btn-lg, .btn-group-lg > .btn {
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   line-height: 1.5;
   border-radius: 1px;
 }
@@ -3416,7 +3416,7 @@ tbody.collapse.show {
 .input-group-lg > .input-group-addon,
 .input-group-lg > .input-group-btn > .input-group-addon.btn {
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   border-radius: 0.3rem;
 }
 
@@ -3844,10 +3844,10 @@ tbody.collapse.show {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.15rem;
-  padding-bottom: 0.15rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   line-height: inherit;
   white-space: nowrap;
 }
@@ -3898,7 +3898,7 @@ tbody.collapse.show {
 
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   line-height: 1;
   background: transparent;
   border: 1px solid transparent;
@@ -4739,7 +4739,7 @@ tbody.collapse.show {
 
 .pagination-lg .page-link {
   padding: 0.75rem 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 .pagination-lg .page-item:first-child .page-link {
