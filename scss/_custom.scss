@@ -294,7 +294,7 @@ $small-font-size: .65rem;
 $text-muted: $gray-light !default;
 
 $blockquote-small-color:  $gray-light !default;
-$blockquote-font-size:    ($font-size-base * 1.25) !default;
+$blockquote-font-size:    $font-size-lg;
 $blockquote-border-color: $gray-lighter !default;
 $blockquote-border-width: .25rem !default;
 
