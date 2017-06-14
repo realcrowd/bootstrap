@@ -264,10 +264,10 @@ $line-height-base: 2;
 
 $font-size-h1: 2.5rem !default;
 $font-size-h2: 2rem !default;
-$font-size-h3: 1.5rem !default;
-$font-size-h4: 1.1rem !default;
-$font-size-h5: 1rem !default;
-$font-size-h6: .95rem !default;
+$font-size-h3: 1.5rem;
+$font-size-h4: 1.1rem;
+$font-size-h5: 1rem;
+$font-size-h6: .95rem;
 
 $headings-margin-bottom: ($spacer / 2) !default;
 $headings-font-family:   inherit !default;
@@ -275,10 +275,10 @@ $headings-font-weight:   700 !default;
 $headings-line-height:   1.1 !default;
 $headings-color:         inherit !default;
 
-$display1-size: 6rem !default;
-$display2-size: 5.5rem !default;
-$display3-size: 4.5rem !default;
-$display4-size: 3.5rem !default;
+$display1-size: 2.5rem;
+$display2-size: 2rem;
+$display3-size: 1.5rem;
+$display4-size: 1.1rem;
 
 $display1-weight:     300 !default;
 $display2-weight:     300 !default;
