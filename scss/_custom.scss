@@ -249,7 +249,7 @@ $font-family-sans-serif: "Helvetica Neue", Arial, Roboto, sans-serif !default;
 $font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $font-family-base:       $font-family-sans-serif !default;
 
-$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
+$font-size-base: .9rem !default; // Assumes the browser default, typically `16px`
 $font-size-lg:   1.25rem !default;
 $font-size-sm:   .875rem !default;
 $font-size-xs:   .75rem !default;
@@ -259,8 +259,8 @@ $font-weight-normal: 400;
 $font-weight-semibold: 500;
 $font-weight-bold: 700;
 
-$font-weight-base: $font-weight-normal !default;
-$line-height-base: 1.5 !default;
+$font-weight-base: $font-weight-light;
+$line-height-base: 2;
 
 $font-size-h1: 2.5rem !default;
 $font-size-h2: 2rem !default;
