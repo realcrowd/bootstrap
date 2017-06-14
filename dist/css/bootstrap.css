@@ -2239,7 +2239,7 @@ select.form-control:focus::-ms-value {
 .col-form-label-sm {
   padding-top: calc(0.25rem - 1px * 2);
   padding-bottom: calc(0.25rem - 1px * 2);
-  font-size: 0.875rem;
+  font-size: 0.75rem;
 }
 
 .col-form-legend {
@@ -2271,7 +2271,7 @@ select.form-control:focus::-ms-value {
 .input-group-sm > .input-group-addon,
 .input-group-sm > .input-group-btn > .btn {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   line-height: 1.5;
   border-radius: 0.2rem;
 }
@@ -2279,7 +2279,7 @@ select.form-control:focus::-ms-value {
 select.form-control-sm:not([size]):not([multiple]), .input-group-sm > select.form-control:not([size]):not([multiple]),
 .input-group-sm > select.input-group-addon:not([size]):not([multiple]),
 .input-group-sm > .input-group-btn > select.btn:not([size]):not([multiple]) {
-  height: calc(1.8125rem + 2px);
+  height: calc(1.625rem + 2px);
 }
 
 .form-control-lg, .input-group-lg > .form-control,
@@ -2996,7 +2996,7 @@ fieldset[disabled] a.btn {
 
 .btn-sm, .btn-group-sm > .btn {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   line-height: 1.5;
   border-radius: 1px;
 }
@@ -3148,7 +3148,7 @@ tbody.collapse.show {
   display: block;
   padding: 0.5rem 1.5rem;
   margin-bottom: 0;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   color: #656461;
   white-space: nowrap;
 }
@@ -3408,7 +3408,7 @@ tbody.collapse.show {
 .input-group-sm > .input-group-addon,
 .input-group-sm > .input-group-btn > .input-group-addon.btn {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   border-radius: 0.2rem;
 }
 
@@ -4754,7 +4754,7 @@ tbody.collapse.show {
 
 .pagination-sm .page-link {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
 }
 
 .pagination-sm .page-item:first-child .page-link {
@@ -5451,7 +5451,7 @@ button.close {
   word-spacing: normal;
   white-space: normal;
   line-break: auto;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   word-wrap: break-word;
   opacity: 0;
 }
@@ -5565,7 +5565,7 @@ button.close {
   word-spacing: normal;
   white-space: normal;
   line-break: auto;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   word-wrap: break-word;
   background-color: #fefefe;
   -webkit-background-clip: padding-box;
