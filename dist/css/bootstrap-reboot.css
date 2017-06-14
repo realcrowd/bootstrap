@@ -28,7 +28,7 @@ body {
   margin: 0;
   font-family: "Helvetica Neue", Arial, Roboto, sans-serif;
   font-size: 1rem;
-  font-weight: normal;
+  font-weight: 400;
   line-height: 1.5;
   color: #232321;
   background-color: #fefefe;
@@ -84,7 +84,7 @@ ul ol {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: 700;
 }
 
 dd {
