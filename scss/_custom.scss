@@ -289,7 +289,7 @@ $display-line-height: $headings-line-height !default;
 $lead-font-size:   $font-size-lg;
 $lead-font-weight: $font-weight-light;
 
-$small-font-size: .65rem;
+$small-font-size: 80% !default;
 
 $text-muted: $gray-light !default;
 
