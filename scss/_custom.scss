@@ -106,7 +106,7 @@ $purple: #745064;
 // create grayscale
 $gray-dark:                 #232321;
 $gray:                      #44423d;
-$gray-light:                #656461;
+$gray-light:                #979695;
 $gray-lighter:              #d0d0d0;
 $gray-lightest:             #e4e4e4;
 
@@ -397,19 +397,19 @@ $btn-transition:                 all .2s ease-in-out !default;
 $input-bg:                       $white !default;
 $input-bg-disabled:              $gray-lighter !default;
 
-$input-color:                    $gray !default;
-$input-border-color:             $black;
+$input-color:                    $black;
+$input-border-color:             $gray-lighter;
 $input-btn-border-width:         $border-width !default; // For form controls and buttons
-$input-box-shadow:               inset 0 1px 1px rgba($black,.075) !default;
+$input-box-shadow:               inset 0 1px 1px rgba($red,.075) !default;
 
 $input-border-radius:            1px;
 $input-border-radius-lg:         1px;
 $input-border-radius-sm:         1px;
 
 $input-bg-focus:                 $input-bg !default;
-$input-border-color-focus:       lighten($brand-primary, 25%) !default;
+$input-border-color-focus:       $black;
 $input-box-shadow-focus:         $input-box-shadow, rgba($input-border-color-focus, .6) !default;
-$input-color-focus:              $input-color !default;
+$input-color-focus:              $black;
 
 $input-color-placeholder:        $gray-light !default;
 
