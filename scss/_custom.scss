@@ -402,9 +402,9 @@ $input-border-color:             $black;
 $input-btn-border-width:         $border-width !default; // For form controls and buttons
 $input-box-shadow:               inset 0 1px 1px rgba($black,.075) !default;
 
-$input-border-radius:            $border-radius !default;
-$input-border-radius-lg:         $border-radius-lg !default;
-$input-border-radius-sm:         $border-radius-sm !default;
+$input-border-radius:            1px;
+$input-border-radius-lg:         1px;
+$input-border-radius-sm:         1px;
 
 $input-bg-focus:                 $input-bg !default;
 $input-border-color-focus:       lighten($brand-primary, 25%) !default;
