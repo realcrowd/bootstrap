@@ -2164,7 +2164,7 @@ pre code {
   background-image: none;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0.25rem;
   -webkit-transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
   transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
@@ -3400,7 +3400,7 @@ tbody.collapse.show {
   color: #44423d;
   text-align: center;
   background-color: #d0d0d0;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0.25rem;
 }
 
@@ -3602,7 +3602,7 @@ tbody.collapse.show {
   background: #fefefe url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23333' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E") no-repeat right 0.75rem center;
   -webkit-background-size: 8px 10px;
           background-size: 8px 10px;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0.25rem;
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -3666,7 +3666,7 @@ tbody.collapse.show {
       -ms-user-select: none;
           user-select: none;
   background-color: #fefefe;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0.25rem;
 }
 
@@ -3686,7 +3686,7 @@ tbody.collapse.show {
   line-height: 1.5;
   color: #44423d;
   background-color: #d0d0d0;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0 0.25rem 0.25rem 0;
 }
 
