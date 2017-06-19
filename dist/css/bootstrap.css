@@ -3092,7 +3092,7 @@ tbody.collapse.show {
   color: #232321;
   text-align: left;
   list-style: none;
-  background-color: #fefefe;
+  background-color: #231a00;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
   border: 1px solid rgba(35, 26, 0, 0.15);
@@ -3112,7 +3112,7 @@ tbody.collapse.show {
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: normal;
-  color: #232321;
+  color: #fbbe04;
   text-align: inherit;
   white-space: nowrap;
   background: none;

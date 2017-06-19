@@ -530,13 +530,13 @@ $form-icon-danger: str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg xmlns
 $dropdown-min-width:             10rem !default;
 $dropdown-padding-y:             .5rem !default;
 $dropdown-margin-top:            .125rem !default;
-$dropdown-bg:                    $white !default;
-$dropdown-border-color:          rgba($black,.15) !default;
+$dropdown-bg:                    $black;
+$dropdown-border-color:          $black;
 $dropdown-border-width:          $border-width !default;
 $dropdown-divider-bg:            $gray-lighter !default;
 $dropdown-box-shadow:            0 .5rem 1rem rgba($black,.175) !default;
 
-$dropdown-link-color:            $gray-dark !default;
+$dropdown-link-color:            $yellow;
 $dropdown-link-hover-color:      darken($gray-dark, 5%) !default;
 $dropdown-link-hover-bg:         $gray-lightest !default;
 
