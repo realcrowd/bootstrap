@@ -3095,7 +3095,7 @@ tbody.collapse.show {
   background-color: #231a00;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0.1rem;
 }
 
@@ -4650,7 +4650,7 @@ tbody.collapse.show {
   padding: 0.75rem 1rem;
   margin-bottom: 1rem;
   list-style: none;
-  background-color: #d0d0d0;
+  background-color: #e4e4e4;
   border-radius: 0.1rem;
 }
 
