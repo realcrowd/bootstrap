@@ -3095,7 +3095,7 @@ tbody.collapse.show {
   background-color: #231a00;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0.1rem;
 }
 
@@ -5878,7 +5878,7 @@ button.close {
   margin-right: 3px;
   margin-left: 3px;
   text-indent: -999px;
-  background-color: rgba(254, 254, 254, 0.5);
+  background-color: rgba(251, 190, 4, 0.5);
 }
 
 .carousel-indicators li::before {
@@ -5902,7 +5902,7 @@ button.close {
 }
 
 .carousel-indicators .active {
-  background-color: #fefefe;
+  background-color: #fbbe04;
 }
 
 .carousel-caption {
