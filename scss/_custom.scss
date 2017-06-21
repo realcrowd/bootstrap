@@ -839,7 +839,7 @@ $list-group-item-padding-y:      .75rem !default;
 $list-group-item-padding-x:      1.25rem !default;
 
 $list-group-hover-bg:                 $gray-lightest !default;
-$list-group-active-color:             $component-active-color !default;
+$list-group-active-color:             $black;
 $list-group-active-bg:                $component-active-bg !default;
 $list-group-active-border-color:      $list-group-active-bg !default;
 
@@ -876,7 +876,7 @@ $breadcrumb-padding-y:          .75rem !default;
 $breadcrumb-padding-x:          1rem !default;
 $breadcrumb-item-padding:       .5rem !default;
 
-$breadcrumb-bg:                 $gray-lighter !default;
+$breadcrumb-bg:                 $gray-lightest;
 $breadcrumb-divider-color:      $gray-light !default;
 $breadcrumb-active-color:       $gray-light !default;
 $breadcrumb-divider:            "/" !default;
