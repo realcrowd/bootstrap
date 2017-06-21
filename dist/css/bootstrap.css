@@ -3095,7 +3095,7 @@ tbody.collapse.show {
   background-color: #231a00;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0.1rem;
 }
 
@@ -5365,7 +5365,7 @@ button.close {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding: 15px;
+  padding: 1.5rem;
   border-bottom: 1px solid #d0d0d0;
 }
 
@@ -5380,7 +5380,7 @@ button.close {
   -webkit-flex: 1 1 auto;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
-  padding: 15px;
+  padding: 1.5rem;
 }
 
 .modal-footer {
@@ -5396,7 +5396,7 @@ button.close {
   -webkit-justify-content: flex-end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  padding: 15px;
+  padding: 1.5rem;
   border-top: 1px solid #d0d0d0;
 }
 
