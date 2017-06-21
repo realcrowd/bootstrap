@@ -3095,7 +3095,7 @@ tbody.collapse.show {
   background-color: #231a00;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
-  border: 1px solid rgba(35, 26, 0, 0.15);
+  border: 1px solid #231a00;
   border-radius: 0.1rem;
 }
 
@@ -5090,7 +5090,7 @@ a.badge:focus, a.badge:hover {
 
 .list-group-item.active {
   z-index: 2;
-  color: #fefefe;
+  color: #231a00;
   background-color: #fbbe04;
   border-color: #fbbe04;
 }
