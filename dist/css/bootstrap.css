@@ -5397,7 +5397,7 @@ button.close {
       -ms-flex-pack: end;
           justify-content: flex-end;
   padding: 1.5rem;
-  border-top: 1px solid #d0d0d0;
+  border-top: 1px solid #fefefe;
 }
 
 .modal-footer > :not(:first-child) {
