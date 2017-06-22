@@ -629,18 +629,18 @@ $pagination-line-height:              1.25 !default;
 
 $pagination-color:                     $link-color !default;
 $pagination-bg:                        $white !default;
-$pagination-border-width:              $border-width !default;
+$pagination-border-width:              0;
 $pagination-border-color:              #ddd !default;
 
 $pagination-hover-color:               $link-hover-color !default;
 $pagination-hover-bg:                  $gray-lighter !default;
 $pagination-hover-border-color:        #ddd !default;
 
-$pagination-active-color:              $white !default;
-$pagination-active-bg:                 $brand-primary !default;
-$pagination-active-border-color:       $brand-primary !default;
+$pagination-active-color:              $black;
+$pagination-active-bg:                 $white;
+$pagination-active-border-color:       $white;
 
-$pagination-disabled-color:            $gray-light !default;
+$pagination-disabled-color:            $gray-lighter;
 $pagination-disabled-bg:               $white !default;
 $pagination-disabled-border-color:     #ddd !default;
 
@@ -872,14 +872,14 @@ $figure-caption-color:     $gray-light !default;
 
 // Breadcrumbs
 
-$breadcrumb-padding-y:          .75rem !default;
+$breadcrumb-padding-y:          .1rem;
 $breadcrumb-padding-x:          1rem !default;
-$breadcrumb-item-padding:       .5rem !default;
+$breadcrumb-item-padding:       1rem;
 
-$breadcrumb-bg:                 $gray-lightest;
-$breadcrumb-divider-color:      $gray-light !default;
-$breadcrumb-active-color:       $gray-light !default;
-$breadcrumb-divider:            "/" !default;
+$breadcrumb-bg:                 $black;
+$breadcrumb-divider-color:      $brand-primary;
+$breadcrumb-active-color:       $brand-primary;
+$breadcrumb-divider:            " " !default;
 
 
 // Carousel
