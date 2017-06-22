@@ -872,14 +872,14 @@ $figure-caption-color:     $gray-light !default;
 
 // Breadcrumbs
 
-$breadcrumb-padding-y:          .75rem !default;
+$breadcrumb-padding-y:          .1rem;
 $breadcrumb-padding-x:          1rem !default;
-$breadcrumb-item-padding:       .5rem !default;
+$breadcrumb-item-padding:       1rem;
 
-$breadcrumb-bg:                 $gray-lightest;
-$breadcrumb-divider-color:      $gray-light !default;
-$breadcrumb-active-color:       $gray-light !default;
-$breadcrumb-divider:            "/" !default;
+$breadcrumb-bg:                 $black;
+$breadcrumb-divider-color:      $brand-primary;
+$breadcrumb-active-color:       $brand-primary;
+$breadcrumb-divider:            " " !default;
 
 
 // Carousel
