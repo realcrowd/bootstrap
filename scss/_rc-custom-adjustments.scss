@@ -14,7 +14,14 @@
 
 //Breadcrumbs
 
-.breadcrumb a {
-  color: $brand-primary;
+.breadcrumb-item {
+
+  a {
+    color: $brand-primary;
+  }
+
+  &.active {
+    text-decoration: underline;
+  }
 }
 
