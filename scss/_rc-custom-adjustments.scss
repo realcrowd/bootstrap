@@ -15,6 +15,9 @@
 //Breadcrumbs
 
 .breadcrumb-item {
+  font-size: $font-size-xs;
+  font-weight: $font-weight-bold;
+  text-transform: uppercase;
 
   a {
     color: $brand-primary;
