@@ -64,5 +64,10 @@ $box-shadow: 0 0 13px 0 rgba($black,.15);
 
 
 
+// Cards
+// To be used as base for offering cards and articles. Even if this is just its external wrapper it gives us a nice base to start with
 
+.card {
+  box-shadow:  $box-shadow;
+}
 
