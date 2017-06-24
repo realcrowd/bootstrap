@@ -33,5 +33,10 @@
     color: $white;
   }
 
+  //Helper class to set breadcrumb call-to-action text to white, it remains bold and should always be aligned right. Use default bootstrap grid to accomplish this. The change in colour is possible to acheive with just default bootstrap components, but having this class helps make our DOM clearer regarding its purpose and quicker to execute for developers.
+  &.call-to-action {
+    color: $white;
+  }
+
 }
 
