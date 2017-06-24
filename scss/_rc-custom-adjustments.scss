@@ -5,10 +5,16 @@
 
 //Table of Contents
 
+//Variables
+
 // Breadcrumbs
 // Buttons
+// Cards
 
 
+//Variables
+
+$box-shadow: 0 0 13px 0 rgba($black,.15);
 
 
 
@@ -41,10 +47,12 @@
 }
 
 
+
+
 // Buttons
 
 .btn-lg {
-  box-shadow:  0 0 13px 0 rgba($black,.15);
+  box-shadow:  $box-shadow;
 }
 
 //Ensures button-groups and dropdowns do not get this emphasis shadow
@@ -53,3 +61,8 @@
     box-shadow: none;
   }
 }
+
+
+
+
+
