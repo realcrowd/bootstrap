@@ -46,3 +46,10 @@
 .btn-lg {
   box-shadow:  0 0 13px 0 rgba($black,.15);
 }
+
+//Ensures button-groups and dropdowns do not get this emphasis shadow
+.btn-group {
+  > .btn {
+    box-shadow: none;
+  }
+}
