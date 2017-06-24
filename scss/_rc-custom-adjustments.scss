@@ -26,5 +26,12 @@
   &.active {
     text-decoration: underline;
   }
+
+  //Helper class allows us to place secondary non-linked helper text into the menu ex "$25K - $700K"
+  &.helper {
+    font-weight: 300;
+    color: $white;
+  }
+
 }
 
