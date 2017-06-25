@@ -13,6 +13,7 @@
 // Cards
 // Dropdowns
 // Forms
+// Navigation
 
 
 //Variables
@@ -122,4 +123,21 @@ body {
 .form-control {
   padding-left: .8rem;
   font-weight: $font-weight-bold;
+}
+
+
+
+// Navigation
+
+.nav, .navbar {
+  font-size: $font-size-sm;
+  font-weight: 500;
+
+  .nav-link {
+    color: $black;
+  }
+}
+
+.nav-item + .nav-item {
+  margin-left: 1.25rem;
 }
