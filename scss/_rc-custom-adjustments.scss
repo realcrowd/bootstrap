@@ -132,12 +132,36 @@ body {
 .nav, .navbar {
   font-size: $font-size-sm;
   font-weight: 500;
-
-  .nav-link {
-    color: $black;
-  }
 }
 
-.nav-item + .nav-item {
+// The actual logo will need to be sized and placed using "position:absolute" in order for it to be large enough and not affect the layout conventions of bootsrap.
+.navbar-brand {
+  padding: 0;
+}
+
+// Navigation bar size is dependant on font-size of the items and specifially their padding.
+.nav-link {
+  padding: .9rem $nav-link-padding-x;
+  color: $black;
+}
+
+// The following two classes create the underline on the active link that sits flush to the bottom of the navbar. Together with the breadcrumb design we effectively have the main + secondary menus ready.
+.nav-item.active {
+  position: relative;
+}
+
+.nav-item.active::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: $navbar-padding-y;
+  margin-bottom: -$navbar-padding-y;
+  content: " ";
+  background: $black;
+}
+
+// Adds spacing between navigation items that only occurs with siblings.
+.nav-item + .nav-item, .nav-link + .nav-link {
   margin-left: 1.25rem;
 }
