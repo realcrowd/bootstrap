@@ -10,6 +10,7 @@
 // Breadcrumbs
 // Buttons
 // Cards
+// Dropdowns
 
 
 //Variables
@@ -55,7 +56,7 @@ $box-shadow: 0 0 13px 0 rgba($black,.15);
   box-shadow:  $box-shadow;
 }
 
-//Ensures button-groups and dropdowns do not get this emphasis shadow
+//Ensures button-groups and dropdowns do not get this emphasis shadow.
 .btn-group {
   > .btn {
     box-shadow: none;
@@ -65,9 +66,20 @@ $box-shadow: 0 0 13px 0 rgba($black,.15);
 
 
 // Cards
-// To be used as base for offering cards and articles. Even if this is just its external wrapper it gives us a nice base to start with
+// To be used as base for offering cards and articles. Even if this is just its external wrapper it gives us a nice base to start with.
 
 .card {
   box-shadow:  $box-shadow;
+}
+
+
+
+// Dropdowns
+
+// Allows setting of the emphasis link. This emphasis link should be placed as the last item and we should not have more then one per dropdown menu.
+.dropdown-menu {
+  .call-to-action {
+    color: $white;
+  }
 }
 
