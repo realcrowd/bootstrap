@@ -3,15 +3,16 @@
 // Copy class names from specific files ex. `_breadcrumb.scss` to this file to override default conventions (ex. link colors) or add extra UI details (ex. underline on active link states) without modifying source files.
 
 
-//Table of Contents
+// Table of Contents
 
-//Variables
+// Variables
 
-//Sitewide Typography
+// Sitewide Typography
 // Breadcrumbs
 // Buttons
 // Cards
 // Dropdowns
+// Forms
 
 
 //Variables
@@ -20,7 +21,7 @@ $box-shadow: 0 0 13px 0 rgba($black,.15);
 
 
 
-//Sitewide Typography
+// Sitewide Typography
 
 body {
   // Improves sitewide typogrpahy legibility by using built in kerning (letterspacing math, ex spacing between Wa combination) of the typeface, resulting in more readable and overall better looking text.
@@ -49,13 +50,13 @@ body {
     text-decoration: underline;
   }
 
-  //Helper class allows us to place secondary non-linked helper text into the menu ex "$25K - $700K"
+  // Helper class allows us to place secondary non-linked helper text into the menu ex "$25K - $700K"
   &.helper {
     font-weight: 300;
     color: $white;
   }
 
-  //Helper class to set breadcrumb call-to-action text to white, it remains bold and should always be aligned right. Use default bootstrap grid to accomplish this. The change in colour is possible to acheive with just default bootstrap components, but having this class helps make our DOM clearer regarding its purpose and quicker to execute for developers.
+  // Helper class to set breadcrumb call-to-action text to white, it remains bold and should always be aligned right. Use default bootstrap grid to accomplish this. The change in colour is possible to acheive with just default bootstrap components, but having this class helps make our DOM clearer regarding its purpose and quicker to execute for developers.
   &.call-to-action {
     color: $white;
   }
@@ -71,7 +72,7 @@ body {
   box-shadow:  $box-shadow;
 }
 
-//Ensures button-groups and dropdowns do not get this emphasis shadow.
+// Ensures button-groups and dropdowns do not get this emphasis shadow.
 .btn-group {
   > .btn {
     box-shadow: none;
@@ -99,7 +100,7 @@ body {
     font-weight: 500;
   }
 
-// Allows setting of the emphasis link. This emphasis link should be placed as the last item and we should not have more then one per dropdown menu.
+  // Allows setting of the emphasis link. This emphasis link should be placed as the last item and we should not have more then one per dropdown menu.
   .call-to-action {
     color: $white;
     &:hover {
@@ -113,3 +114,12 @@ body {
   margin: .5rem $dropdown-item-padding-x;
 }
 
+
+
+
+// Forms
+
+.form-control {
+  padding-left: .8rem;
+  font-weight: $font-weight-bold;
+}
