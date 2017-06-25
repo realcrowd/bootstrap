@@ -76,10 +76,25 @@ $box-shadow: 0 0 13px 0 rgba($black,.15);
 
 // Dropdowns
 
-// Allows setting of the emphasis link. This emphasis link should be placed as the last item and we should not have more then one per dropdown menu.
+
 .dropdown-menu {
+  font-size: $font-size-sm;
+
+  .dropdown-item {
+    font-weight: 500;
+  }
+
+// Allows setting of the emphasis link. This emphasis link should be placed as the last item and we should not have more then one per dropdown menu.
   .call-to-action {
     color: $white;
+    &:hover {
+      color: $black;
+    }
   }
+}
+
+// Matches drowdown separator design to mock-ups — together with the different color this ensures dropdown call-to-action properly stands out.
+.dropdown-divider {
+  margin: .5rem $dropdown-item-padding-x;
 }
 
