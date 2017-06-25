@@ -14,6 +14,7 @@
 // Dropdowns
 // Forms
 // Navigation
+// Pagination
 
 
 //Variables
@@ -164,4 +165,16 @@ body {
 // Adds spacing between navigation items that only occurs with siblings.
 .nav-item + .nav-item, .nav-link + .nav-link {
   margin-left: 1.25rem;
+}
+
+
+
+// Pagination
+
+.pagination {
+  font-weight: $font-weight-bold;
+}
+
+.page-link {
+  color: $black;
 }
