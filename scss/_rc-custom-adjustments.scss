@@ -127,6 +127,20 @@ body {
   font-weight: $font-weight-bold;
 }
 
+.form-group {
+  label, .col-form-label {
+    padding-bottom: 0;
+    margin-bottom: .35rem;
+    font-size: $font-size-xs;
+    font-weight: $font-weight-bold;
+  }
+
+  .form-control-feedback {
+    font-size: $font-size-sm;
+    font-weight: $font-weight-bold;
+  }
+}
+
 
 
 // Navigation
