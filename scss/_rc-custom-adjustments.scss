@@ -31,6 +31,7 @@ body {
 
   // Activates improved rendering of typography on webkit based browsers, making text closer to its intended look, as it was designed and appears in print.
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   // Activates common ligatures (ex. fi and ff combinations ex. http://thenewcode.com/547/Make-Your-Web-Pages-More-Legible-With-Ligatures-and-Kerning-Pairs), further improving readability of text.
   font-feature-settings: "liga";
