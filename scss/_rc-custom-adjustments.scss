@@ -1,0 +1,195 @@
+// Real Crowd Custom Bootsrap overrides
+//
+// Copy class names from specific files ex. `_breadcrumb.scss` to this file to override default conventions (ex. link colors) or add extra UI details (ex. underline on active link states) without modifying source files.
+
+
+// Table of Contents
+
+// Variables
+
+// Sitewide Typography
+// Breadcrumbs
+// Buttons
+// Cards
+// Dropdowns
+// Forms
+// Navigation
+// Pagination
+
+
+//Variables
+
+$rc-box-shadow: 0 0 13px 0 rgba($black,.15);
+
+
+
+// Sitewide Typography
+
+body {
+  // Improves sitewide typogrpahy legibility by using built in kerning (letterspacing math, ex spacing between Wa combination) of the typeface, resulting in more readable and overall better looking text.
+  text-rendering: optimizeLegibility;
+
+  // Activates improved rendering of typography on webkit based browsers, making text closer to its intended look, as it was designed and appears in print.
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  // Activates common ligatures (ex. fi and ff combinations ex. http://thenewcode.com/547/Make-Your-Web-Pages-More-Legible-With-Ligatures-and-Kerning-Pairs), further improving readability of text.
+  font-feature-settings: "liga";
+}
+
+
+//Breadcrumbs
+
+.breadcrumb-item {
+  font-size: $font-size-xs;
+  font-weight: $font-weight-bold;
+  text-transform: uppercase;
+
+  a {
+    color: $brand-primary;
+  }
+
+  &.active {
+    text-decoration: underline;
+  }
+
+  // Helper class allows us to place secondary non-linked helper text into the menu ex "$25K - $700K"
+  &.helper {
+    font-weight: 300;
+    color: $white;
+  }
+
+  // Helper class to set breadcrumb call-to-action text to white, it remains bold and should always be aligned right. Use default bootstrap grid to accomplish this. The change in colour is possible to acheive with just default bootstrap components, but having this class helps make our DOM clearer regarding its purpose and quicker to execute for developers.
+  &.call-to-action {
+    color: $white;
+  }
+
+}
+
+
+
+
+// Buttons
+
+.btn-lg {
+  box-shadow:  $rc-box-shadow;
+}
+
+// Ensures button-groups and dropdowns do not get this emphasis shadow.
+.btn-group {
+  > .btn {
+    box-shadow: none;
+  }
+}
+
+
+
+// Cards
+// To be used as base for offering cards and articles. Even if this is just its external wrapper it gives us a nice base to start with.
+
+.card {
+  box-shadow:  $rc-box-shadow;
+}
+
+
+
+// Dropdowns
+
+
+.dropdown-menu {
+  font-size: $font-size-sm;
+
+  .dropdown-item {
+    font-weight: 500;
+  }
+
+  // Allows setting of the emphasis link. This emphasis link should be placed as the last item and we should not have more then one per dropdown menu.
+  .call-to-action {
+    color: $white;
+    &:hover {
+      color: $black;
+    }
+  }
+}
+
+// Matches drowdown separator design to mock-ups — together with the different color this ensures dropdown call-to-action properly stands out.
+.dropdown-divider {
+  margin: .5rem $dropdown-item-padding-x;
+}
+
+
+
+
+// Forms
+
+.form-control {
+  padding-left: .8rem;
+  font-weight: $font-weight-bold;
+}
+
+.form-group {
+  label, .col-form-label {
+    padding-bottom: 0;
+    margin-bottom: .35rem;
+    font-size: $font-size-xs;
+    font-weight: $font-weight-bold;
+  }
+
+  .form-control-feedback {
+    font-size: $font-size-sm;
+    font-weight: $font-weight-bold;
+  }
+}
+
+
+
+// Navigation
+
+.nav, .navbar {
+  font-size: $font-size-sm;
+  font-weight: 500;
+}
+
+// The actual logo will need to be sized and placed using "position:absolute" in order for it to be large enough and not affect the layout conventions of bootsrap.
+.navbar-brand {
+  padding: 0;
+}
+
+// Navigation bar size is dependant on font-size of the items and specifially their padding.
+.nav-link {
+  padding: .9rem $nav-link-padding-x;
+  color: $black;
+}
+
+// The following two classes create the underline on the active link that sits flush to the bottom of the navbar. Together with the breadcrumb design we effectively have the main + secondary menus ready.
+.nav-item.active {
+  position: relative;
+}
+
+.nav-item.active::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: $navbar-padding-y;
+  margin-bottom: -$navbar-padding-y;
+  content: " ";
+  background: $black;
+}
+
+// Adds spacing between navigation items that only occurs with siblings.
+.nav-item + .nav-item, .nav-link + .nav-link {
+  margin-left: 1.25rem;
+}
+
+
+
+// Pagination
+
+.pagination {
+  font-weight: $font-weight-bold;
+}
+
+.page-link {
+  color: $black;
+}
