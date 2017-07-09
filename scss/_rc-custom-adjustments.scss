@@ -41,12 +41,12 @@ body {
 //Breadcrumbs
 
 .breadcrumb-item {
-  font-size: $font-size-xs;
+  font-size: $font-size-sm;
   font-weight: $font-weight-bold;
   text-transform: uppercase;
 
   a {
-    color: $brand-primary;
+    color: theme-color("primary");
   }
 
   &.active {
@@ -131,7 +131,7 @@ body {
   label, .col-form-label {
     padding-bottom: 0;
     margin-bottom: .35rem;
-    font-size: $font-size-xs;
+    font-size: $font-size-sm;
     font-weight: $font-weight-bold;
   }
 
