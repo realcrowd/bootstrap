@@ -45,6 +45,7 @@ body {
 .breadcrumb-item {
   font-size: $font-size-sm;
   font-weight: $font-weight-bold;
+  color: theme-color("primary");
   text-transform: uppercase;
 
   a {
