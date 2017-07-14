@@ -15,6 +15,8 @@
 // Forms
 // Navigation
 // Pagination
+// Badges
+
 
 
 //Variables
@@ -43,6 +45,7 @@ body {
 .breadcrumb-item {
   font-size: $font-size-sm;
   font-weight: $font-weight-bold;
+  color: theme-color("primary");
   text-transform: uppercase;
 
   a {
@@ -75,6 +78,33 @@ body {
   box-shadow:  $rc-box-shadow;
 }
 
+.btn-secondary {
+  color: $black;
+}
+
+.btn-secondary, .btn-light {
+  border-color: $gray-300;
+}
+
+.btn-light {
+  color: $gray-500;
+}
+
+.btn-outline-secondary {
+  color: $gray-600;
+  border-color: $gray-400;
+  &:hover {
+    color: $black;
+  }
+}
+
+.btn-outline-light {
+  color: $gray-300;
+  border-color: $gray-300;
+  &:hover {
+    color: $black;
+  }
+}
 // Ensures button-groups and dropdowns do not get this emphasis shadow.
 .btn-group {
   > .btn {
@@ -123,24 +153,26 @@ body {
 // Forms
 
 .form-control {
-  padding-left: .8rem;
+  padding: $input-btn-padding-y .8rem;
   font-weight: $font-weight-bold;
 }
 
-.form-group {
-  label, .col-form-label {
-    padding-bottom: 0;
-    margin-bottom: .35rem;
-    font-size: $font-size-sm;
-    font-weight: $font-weight-bold;
-  }
-
-  .form-control-feedback {
-    font-size: $font-size-sm;
-    font-weight: $font-weight-bold;
-  }
+label, .col-form-label, legend {
+  padding-bottom: 0;
+  margin-bottom: .35rem;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-bold;
 }
 
+
+.form-control-feedback, .invalid-feedback {
+  font-size: $font-size-sm;
+  font-weight: $font-weight-bold;
+}
+
+.custom-control-indicator {
+  top: .25rem;
+}
 
 
 // Navigation
@@ -159,6 +191,9 @@ body {
 .nav-link {
   padding: .9rem $nav-link-padding-x;
   color: $black;
+  &:hover {
+    color: $gray-700;
+  }
 }
 
 // The following two classes create the underline on the active link that sits flush to the bottom of the navbar. Together with the breadcrumb design we effectively have the main + secondary menus ready.
@@ -182,6 +217,15 @@ body {
   margin-left: 1.25rem;
 }
 
+.nav-tabs {
+  .nav-item + .nav-item {
+    margin-left: -.05rem;
+  }
+
+  .nav-link {
+    padding: .9rem 2.5rem;
+  }
+}
 
 
 // Pagination
@@ -192,4 +236,11 @@ body {
 
 .page-link {
   color: $black;
+}
+
+// Badges
+
+//fixes odd line height making badges look weird with the new bootstrap update — if thy fix it we can remove it in future
+.badge {
+  line-height: 1.3;
 }
