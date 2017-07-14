@@ -75,6 +75,9 @@ body {
   box-shadow:  $rc-box-shadow;
 }
 
+.btn-secondary {
+  border-color: $gray-300;
+}
 // Ensures button-groups and dropdowns do not get this emphasis shadow.
 .btn-group {
   > .btn {
