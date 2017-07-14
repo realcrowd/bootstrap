@@ -191,6 +191,9 @@ label, .col-form-label, legend {
 .nav-link {
   padding: .9rem $nav-link-padding-x;
   color: $black;
+  &:hover {
+    color: $gray-700;
+  }
 }
 
 // The following two classes create the underline on the active link that sits flush to the bottom of the navbar. Together with the breadcrumb design we effectively have the main + secondary menus ready.
