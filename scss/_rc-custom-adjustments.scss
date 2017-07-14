@@ -76,7 +76,31 @@ body {
 }
 
 .btn-secondary {
+  color: $black;
+}
+
+.btn-secondary, .btn-light {
   border-color: $gray-300;
+}
+
+.btn-light {
+  color: $gray-500;
+}
+
+.btn-outline-secondary {
+  color: $gray-600;
+  border-color: $gray-400;
+  &:hover {
+    color: $black;
+  }
+}
+
+.btn-outline-light {
+  color: $gray-300;
+  border-color: $gray-300;
+  &:hover {
+    color: $black;
+  }
 }
 // Ensures button-groups and dropdowns do not get this emphasis shadow.
 .btn-group {
