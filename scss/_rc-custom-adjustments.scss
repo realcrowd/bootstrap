@@ -208,6 +208,15 @@ label, .col-form-label, legend {
   margin-left: 1.25rem;
 }
 
+.nav-tabs {
+  .nav-item + .nav-item {
+    margin-left: -.05rem;
+  }
+
+  .nav-link {
+    padding: .9rem 2.5rem;
+  }
+}
 
 
 // Pagination
