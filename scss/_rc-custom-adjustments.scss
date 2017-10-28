@@ -18,12 +18,9 @@
 // Badges
 
 
+// Variables
 
-//Variables
-
-$rc-box-shadow: 0 0 13px 0 rgba($black,.15);
-
-
+$rc-box-shadow: 0 0 13px 0 rgba($black, .15);
 
 // Sitewide Typography
 
@@ -70,19 +67,18 @@ body {
 }
 
 
-
-
 // Buttons
 
 .btn-lg {
-  box-shadow:  $rc-box-shadow;
+  box-shadow: $rc-box-shadow;
 }
 
 .btn-secondary {
   color: $black;
 }
 
-.btn-secondary, .btn-light {
+.btn-secondary,
+.btn-light {
   border-color: $gray-300;
 }
 
@@ -113,18 +109,15 @@ body {
 }
 
 
-
 // Cards
 // To be used as base for offering cards and articles. Even if this is just its external wrapper it gives us a nice base to start with.
 
 .card {
-  box-shadow:  $rc-box-shadow;
+  box-shadow: $rc-box-shadow;
 }
 
 
-
 // Dropdowns
-
 
 .dropdown-menu {
   font-size: $font-size-sm;
@@ -148,16 +141,15 @@ body {
 }
 
 
-
-
 // Forms
 
 .form-control {
-  padding: $input-btn-padding-y .8rem;
   font-weight: $font-weight-bold;
 }
 
-label, .col-form-label, legend {
+label,
+.col-form-label,
+legend {
   padding-bottom: 0;
   margin-bottom: .35rem;
   font-size: $font-size-sm;
@@ -165,7 +157,8 @@ label, .col-form-label, legend {
 }
 
 
-.form-control-feedback, .invalid-feedback {
+.form-control-feedback,
+.invalid-feedback {
   font-size: $font-size-sm;
   font-weight: $font-weight-bold;
 }
@@ -177,7 +170,8 @@ label, .col-form-label, legend {
 
 // Navigation
 
-.nav, .navbar {
+.nav,
+.navbar {
   font-size: $font-size-sm;
   font-weight: 500;
 }
@@ -213,7 +207,8 @@ label, .col-form-label, legend {
 }
 
 // Adds spacing between navigation items that only occurs with siblings.
-.nav-item + .nav-item, .nav-link + .nav-link {
+.nav-item + .nav-item,
+.nav-link + .nav-link {
   margin-left: 1.25rem;
 }
 
