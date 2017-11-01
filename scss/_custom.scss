@@ -55,17 +55,17 @@ $colors: map-merge((
   "cyan":       $cyan,
   "white":      $white,
   "gray":       $gray-600,
-  "gray-dark":  $gray-800
+  "gray-dark":  $gray-900
 ), $colors);
 
-$primary:       $blue !default;
-$secondary:     $gray-600 !default;
-$success:       $green !default;
-$info:          $cyan !default;
-$warning:       $yellow !default;
-$danger:        $red !default;
-$light:         $gray-100 !default;
-$dark:          $gray-800 !default;
+$primary:       $yellow;
+$secondary:     $gray-200;
+$success:       $green;
+$info:          $cyan;
+$warning:       $orange;
+$danger:        $red;
+$light:         $gray-100;
+$dark:          $gray-800;
 
 $theme-colors: () !default;
 $theme-colors: map-merge((
